@@ -1,16 +1,16 @@
-## Hi there 👋
+# 嗨，我是黃正瑋 👋
 
-<!--
-**wei920605/wei920605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前端 / 全端工程師，專注於 Next.js 應用開發與 AI 整合。
 
-Here are some ideas to get you started:
+## 🚀 主要專案
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[AI 股評助理](https://github.com/wei920605/stock-ai-assistant)** — Next.js + Llama 3.1，< 1 秒 AI 推理，已部署上線
+- **[手語辨識系統](https://github.com/wei920605/Department-of-Sign-Language-Recognition-System)** — MediaPipe + 資料增強，準確率從 66.7% 提升至 84.7%
+
+## 🛠 技術棧
+
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Python` `MediaPipe` `Vercel`
+
+## 📫 聯絡我
+
+wei20030605@gmail.com
